@@ -21,7 +21,7 @@ cell comments. This module will then be deprecated unless otherwise noted here.
 This module will delete all comments that start with '# In[', 
 which is the way jupyter writes its cells.
 In case you have an actual comment in your code that should continue there,
-you can change the way the comment starts or hack the module here in function
+you can change the way the comment starts or hack this module - function
 clean_cells().
 
 ## Updates:
